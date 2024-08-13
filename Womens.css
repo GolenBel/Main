@@ -1,0 +1,315 @@
+body {
+    overflow-x: hidden;
+    background-image: url('image/fons.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.Brussels {
+    font-family: 'Impact', sans-serif;
+    font-size: 100px;
+    background-image: linear-gradient(to left, #FF6347, #FFFF00);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    position: relative;
+    top: 90px;
+    letter-spacing: 10px;
+}
+
+.Riga {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 200px;
+    left: 120px;
+    background-image: url('image/button/1.png');
+}
+
+.Beirut {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 200px;
+    left: 125px;
+    background-image: url('image/button/2.png');
+}
+
+.Lilongwe {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 200px;
+    left: 130px;
+    background-image: url('image/button/10.png');
+}
+
+.KualaLumpur {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 200px;
+    left: 135px;
+    background-image: url('image/button/11.png');
+}
+
+.Bamako {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 200px;
+    left: 140px;
+    background-image: url('image/button/13.png');
+}
+
+.skins35 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 200px;
+    left: 145px;
+    background-image: url('image/button/35.png');
+}
+
+.skins36 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 250px;
+    left: 120px;
+    background-image: url('image/button/36.png');
+}
+
+.skins38 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 250px;
+    left: 125px;
+    background-image: url('image/button/38.png');
+}
+
+.skins40 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 250px;
+    left: 130px;
+    background-image: url('image/button/40.png');
+}
+
+.skins42 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 250px;
+    left: 135px;
+    background-image: url('image/button/42.png');
+}
+
+.skins49 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 250px;
+    left: 140px;
+    background-image: url('image/button/49.png');
+}
+
+.skins55 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 250px;
+    left: 145px;
+    background-image: url('image/button/55.png');
+}
+
+.skins57 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 300px;
+    left: 120px;
+    background-image: url('image/button/57.png');
+}
+
+.skins61 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 300px;
+    left: 125px;
+    background-image: url('image/button/61.png');
+}
+
+.skins65 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 300px;
+    left: 130px;
+    background-image: url('image/button/65.png');
+}
+
+.skins68 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 300px;
+    left: 135px;
+    background-image: url('image/button/68.png');
+}
+
+.skins72 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 300px;
+    left: 140px;
+    background-image: url('image/button/72.png');
+}
+
+.skins91 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 300px;
+    left: 145px;
+    background-image: url('image/button/91.png');
+}
+
+.Bucharest {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 350px;
+    left: 120px;
+    background-image: url('image/2button/124.png');
+}
+
+.BuenosAires {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 350px;
+    left: 125px;
+    background-image: url('image/2button/126.png');
+}
+
+.Havana {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 350px;
+    left: 130px;
+    background-image: url('image/2button/132.png');
+}
+
+.skins31 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 350px;
+    left: 135px;
+    background-image: url('image/2button/133.png');
+}
+
+.skins33 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 350px;
+    left: 140px;
+    background-image: url('image/2button/135.png');
+}
+
+.skins350 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 350px;
+    left: 145px;
+    background-image: url('image/2button/137.png');
+}
+
+.skins380 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 400px;
+    left: 120px;
+    background-image: url('image/2button/140.png');
+}
+
+.skins39 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 400px;
+    left: 125px;
+    background-image: url('image/2button/141.png');
+}
+
+.skins41 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 400px;
+    left: 130px;
+    background-image: url('image/2button/143.png');
+}
+
+.skins420 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 400px;
+    left: 135px;
+    background-image: url('image/2button/144.png');
+}
+
+.skins45 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 400px;
+    left: 140px;
+    background-image: url('image/2button/147.png');
+}
+
+.skins46 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 400px;
+    left: 145px;
+    background-image: url('image/2button/148.png');
+}
+
+.skins47 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 450px;
+    left: 120px;
+    background-image: url('image/2button/149.png');
+}
+
+.skins48 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 450px;
+    left: 125px;
+    background-image: url('image/2button/150.png');
+}
+
+
+.back {
+    width: 200px;
+    height: 50px;
+    position: Relative;
+    top: 190px;
+    background-image: url('image/back.png');
+}

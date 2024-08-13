@@ -1,0 +1,107 @@
+body {
+    overflow-x: hidden;
+    background-image: url('image/fons.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.Brussels {
+    font-family: 'Impact', sans-serif;
+    font-size: 100px;
+    background-image: linear-gradient(to left, #FF6347, #FFFF00);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    position: relative;
+    top: 90px;
+    letter-spacing: 10px;
+}
+
+.Tripoli {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 200px;
+    left: 120px;
+    background-image: url('image/button/5.png');
+}
+
+.Antananarivo {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 200px;
+    left: 125px;
+    background-image: url('image/button/9.png');
+}
+
+.Nouakchott {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 200px;
+    left: 130px;
+    background-image: url('image/button/16.png');
+}
+
+.skins31 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 200px;
+    left: 135px;
+    background-image: url('image/button/31.png');
+}
+
+.skins43 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 200px;
+    left: 140px;
+    background-image: url('image/button/43.png');
+}
+
+.skins45 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 200px;
+    left: 145px;
+    background-image: url('image/button/45.png');
+}
+
+.skins46 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 250px;
+    left: 120px;
+    background-image: url('image/button/46.png');
+}
+
+.skins53 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 250px;
+    left: 125px;
+    background-image: url('image/button/53.png');
+}
+
+.skins58 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 250px;
+    left: 130px;
+    background-image: url('image/button/58.png');
+}
+
+.back {
+    width: 200px;
+    height: 50px;
+    position: Relative;
+    top: 190px;
+    background-image: url('image/back.png');
+}

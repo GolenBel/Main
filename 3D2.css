@@ -1,0 +1,454 @@
+body {
+    overflow-x: hidden;
+    background-image: url('image/fons.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.Brussels {
+    font-family: 'Impact', sans-serif;
+    font-size: 100px;
+    text-align: left;
+    background-image: linear-gradient(to left, #FF6347, #FFFF00);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    position: relative;
+    top: 70px;
+}
+
+.UlanBator {
+    position: Relative;
+    top: 400px;
+    background-image: url('image/line.png');
+}
+
+.Varshava {
+    position: Relative;
+    top: 1000px;
+    background-image: url('image/line.png');
+}
+
+.D49 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 450px;
+    left: 120px;
+    background-image: url('image/Beta/button/49.png');
+}
+
+.D50 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 450px;
+    left: 125px;
+    background-image: url('image/Beta/button/50.png');
+}
+
+.D51 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 450px;
+    left: 130px;
+    background-image: url('image/Beta/button/51.png');
+}
+
+.D52 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 450px;
+    left: 135px;
+    background-image: url('image/Beta/button/52.png');
+}
+
+.D53 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 450px;
+    left: 140px;
+    background-image: url('image/Beta/button/53.png');
+}
+
+.D54 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 450px;
+    left: 145px;
+    background-image: url('image/Beta/button/54.png');
+}
+
+.D55 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 500px;
+    left: 120px;
+    background-image: url('image/Beta/button/55.png');
+}
+
+.D56 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 500px;
+    left: 125px;
+    background-image: url('image/Beta/button/56.png');
+}
+
+.D57 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 500px;
+    left: 130px;
+    background-image: url('image/Beta/button/57.png');
+}
+
+.D58 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 500px;
+    left: 135px;
+    background-image: url('image/Beta/button/58.png');
+}
+
+.D59 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 500px;
+    left: 140px;
+    background-image: url('image/Beta/button/59.png');
+}
+
+.D60 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 500px;
+    left: 145px;
+    background-image: url('image/Beta/button/60.png');
+}
+
+
+
+.D61 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 550px;
+    left: 120px;
+    background-image: url('image/Beta/button/61.png');
+}
+
+
+.D62 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 550px;
+    left: 125px;
+    background-image: url('image/Beta/button/62.png');
+}
+
+.D63 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 550px;
+    left: 130px;
+    background-image: url('image/Beta/button/63.png');
+}
+
+.D64 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 550px;
+    left: 135px;
+    background-image: url('image/Beta/button/64.png');
+}
+
+.D65 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 550px;
+    left: 140px;
+    background-image: url('image/Beta/button/65.png');
+}
+
+.D66 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 550px;
+    left: 145px;
+    background-image: url('image/Beta/button/66.png');
+}
+
+.D67 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 600px;
+    left: 120px;
+    background-image: url('image/Beta/button/67.png');
+}
+
+.D68 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 600px;
+    left: 125px;
+    background-image: url('image/Beta/button/68.png');
+}
+
+.D69 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 600px;
+    left: 130px;
+    background-image: url('image/Beta/button/69.png');
+}
+
+.D70 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 600px;
+    left: 135px;
+    background-image: url('image/Beta/button/70.png');
+}
+
+.D71 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 600px;
+    left: 140px;
+    background-image: url('image/Beta/button/71.png');
+}
+
+.D72 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 600px;
+    left: 145px;
+    background-image: url('image/Beta/button/72.png');
+}
+
+.D73 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 650px;
+    left: 120px;
+    background-image: url('image/Beta/button/73.png');
+}
+
+.D74 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 650px;
+    left: 125px;
+    background-image: url('image/Beta/button/74.png');
+}
+
+.D75 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 650px;
+    left: 130px;
+    background-image: url('image/Beta/button/75.png');
+}
+
+.D76 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 650px;
+    left: 135px;
+    background-image: url('image/Beta/button/76.png');
+}
+
+.D77 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 650px;
+    left: 140px;
+    background-image: url('image/Beta/button/77.png');
+}
+
+.D78 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 650px;
+    left: 145px;
+    background-image: url('image/Beta/button/78.png');
+}
+
+.D79 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 700px;
+    left: 120px;
+    background-image: url('image/Beta/button/79.png');
+}
+
+.D80 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 700px;
+    left: 125px;
+    background-image: url('image/Beta/button/80.png');
+}
+
+.D81 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 700px;
+    left: 130px;
+    background-image: url('image/Beta/button/81.png');
+}
+
+.D82 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 700px;
+    left: 135px;
+    background-image: url('image/Beta/button/82.png');
+}
+
+.D83 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 700px;
+    left: 140px;
+    background-image: url('image/Beta/button/83.png');
+}
+
+.D84 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 700px;
+    left: 145px;
+    background-image: url('image/Beta/button/84.png');
+}
+
+.D85 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 750px;
+    left: 120px;
+    background-image: url('image/Beta/button/85.png');
+}
+
+.D86 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 750px;
+    left: 125px;
+    background-image: url('image/Beta/button/86.png');
+}
+
+.D87 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 750px;
+    left: 130px;
+    background-image: url('image/Beta/button/87.png');
+}
+
+.D88 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 750px;
+    left: 135px;
+    background-image: url('image/Beta/button/88.png');
+}
+
+.D89 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 750px;
+    left: 140px;
+    background-image: url('image/Beta/button/89.png');
+}
+
+.D90 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 750px;
+    left: 145px;
+    background-image: url('image/Beta/button/90.png');
+}
+
+.D91 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 800px;
+    left: 120px;
+    background-image: url('image/Beta/button/91.png');
+}
+
+.D92 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 800px;
+    left: 125px;
+    background-image: url('image/Beta/button/92.png');
+}
+
+.D93 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 800px;
+    left: 130px;
+    background-image: url('image/Beta/button/93.png');
+}
+
+.back {
+    width: 200px;
+    height: 50px;
+    position: Relative;
+    top: 330px;
+    background-image: url('image/back.png');
+}
+
+.back2 {
+    width: 200px;
+    height: 50px;
+    position: Relative;
+    top: 930px;
+    background-image: url('image/back.png');
+}

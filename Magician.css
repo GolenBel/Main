@@ -1,0 +1,72 @@
+body {
+    overflow-x: hidden;
+    background-image: url('image/fons.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.Brussels {
+    font-family: 'Impact', sans-serif;
+    font-size: 100px;
+    background-image: linear-gradient(to left, #FF6347, #FFFF00);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    position: relative;
+    top: 90px;
+    letter-spacing: 10px;
+}
+
+.BuenosAires {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 200px;
+    left: 120px;
+    background-image: url('image/button/24.png');
+}
+
+.skins39 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 200px;
+    left: 125px;
+    background-image: url('image/button/39.png');
+}
+
+.skins44 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 200px;
+    left: 130px;
+    background-image: url('image/button/44.png');
+}
+
+.skins43 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 200px;
+    left: 135px;
+    background-image: url('image/2button/145.png');
+}
+
+.skins440 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 200px;
+    left: 140px;
+    background-image: url('image/2button/146.png');
+}
+
+
+.back {
+    width: 200px;
+    height: 50px;
+    position: Relative;
+    top: 190px;
+    background-image: url('image/back.png');
+}

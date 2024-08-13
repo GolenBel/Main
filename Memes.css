@@ -1,0 +1,147 @@
+body {
+    overflow-x: hidden;
+    background-image: url('image/fons.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.Brussels {
+    font-family: 'Impact', sans-serif;
+    font-size: 100px;
+    background-image: linear-gradient(to left, #FF6347, #FFFF00);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    position: relative;
+    top: 90px;
+    letter-spacing: 10px;
+}
+
+.Canberra {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 200px;
+    left: 120px;
+    background-image: url('image/button/26.png');
+}
+
+.skins320 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 200px;
+    left: 125px;
+    background-image: url('image/button/32.png');
+}
+
+.skins52 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 200px;
+    left: 130px;
+    background-image: url('image/button/52.png');
+}
+
+.skins67 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 200px;
+    left: 135px;
+    background-image: url('image/button/67.png');
+}
+
+.skins83 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 200px;
+    left: 140px;
+    background-image: url('image/button/83.png');
+}
+
+.skins84 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 200px;
+    left: 145px;
+    background-image: url('image/button/84.png');
+}
+
+.Vilnius {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 250px;
+    left: 120px;
+    background-image: url('image/2button/109.png');
+}
+
+.Lilongwe {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 250px;
+    left: 125px;
+    background-image: url('image/2button/112.png');
+}
+
+.KualaLumpur {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 250px;
+    left: 130px;
+    background-image: url('image/2button/113.png');
+}
+
+.Male {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 250px;
+    left: 135px;
+    background-image: url('image/2button/114.png');
+}
+
+
+
+.Bamako {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 250px;
+    left: 140px;
+    background-image: url('image/2button/115.png');
+}
+
+
+.Valletta {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 250px;
+    left: 145px;
+    background-image: url('image/2button/116.png');
+}
+
+.skins32 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 300px;
+    left: 120px;
+    background-image: url('image/2button/134.png');
+}
+
+
+.back {
+    width: 200px;
+    height: 50px;
+    position: Relative;
+    top: 190px;
+    background-image: url('image/back.png');
+}

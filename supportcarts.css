@@ -1,0 +1,70 @@
+body {
+    overflow-x: hidden;
+    background-image: url('image/fons.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.Brussels {
+    font-family: 'Minecraft Rus', sans-serif;
+    font-size: 100px;
+    text-align: left;
+    background-image: linear-gradient(to left, #FF6347, #FFFF00);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    position: relative;
+    top: 70px;
+}
+
+.UlanBator {
+    position: Relative;
+    top: 400px;
+    background-image: url('image/line.png');
+}
+
+.info {
+    width: 550px;
+    height: 300px;
+    top: 450px;
+    position: relative
+}
+
+.info2 {
+    font-family: 'Minecraft Rus', sans-serif;
+    position: relative;
+    top: 170px;
+    left: 570px;
+    line-height: 0.5em;
+    color: #FFD700;
+}
+
+.info3 {
+    font-family: 'Minecraft Rus', sans-serif;
+    position: relative;
+    top: 170px;
+    left: 570px;
+    line-height: 0.5em;
+    text-transform: uppercase;
+    color: #FFD700;
+}
+
+.Vaduz {
+    color: white;
+    font-size: 30px;
+    background-color: #000000;
+    width: 500px;
+    height: 50px;
+    position: relative;
+    top: 230px;
+    left: 570px;
+}
+
+.Vaduz:hover {
+    background-color: #ff6a00;
+    width: 500px;
+    height: 50px;
+    position: relative;
+    top: 230px;
+    left: 570px;
+}

@@ -1,0 +1,1115 @@
+body {
+    overflow-x: hidden;
+    background-image: url('image/fons.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.Brussels {
+    font-family: 'Minecraft Rus', sans-serif;
+    font-size: 100px;
+    text-align: left;
+    background-image: linear-gradient(to left, #FF6347, #FFFF00);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    position: relative;
+    top: 70px;
+}
+
+.UlanBator {
+    position: Relative;
+    top: 400px;
+    background-image: url('image/line.png');
+}
+
+.Riga {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    bottom: 100px;
+    left: 120px;
+    background-image: url('image/button/1.png');
+}
+
+.Beirut {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    bottom: 100px;
+    left: 125px;
+    background-image: url('image/button/2.png');
+}
+
+.Maseru {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    bottom: 100px;
+    left: 130px;
+    background-image: url('image/button/3.png');
+}
+
+.Monrovia {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    bottom: 100px;
+    left: 135px;
+    background-image: url('image/button/4.png');
+}
+
+.Tripoli {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    bottom: 100px;
+    left: 140px;
+    background-image: url('image/button/5.png');
+}
+
+.Vaduz {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    bottom: 100px;
+    left: 145px;
+    background-image: url('image/button/6.png');
+}
+
+.Vilnius {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    bottom: 50px;
+    left: 120px;
+    background-image: url('image/button/7.png');
+}
+
+.Luxembourg {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    bottom: 50px;
+    left: 125px;
+    background-image: url('image/button/8.png');
+}
+
+.Antananarivo {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    bottom: 50px;
+    left: 130px;
+    background-image: url('image/button/9.png');
+}
+
+.Lilongwe {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    bottom: 50px;
+    left: 135px;
+    background-image: url('image/button/10.png');
+}
+
+.KualaLumpur {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    bottom: 50px;
+    left: 140px;
+    background-image: url('image/button/11.png');
+}
+.Male {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    bottom: 50px;
+    left: 145px;
+    background-image: url('image/button/12.png');
+}
+
+
+
+.Bamako {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    bottom: 0px;
+    left: 120px;
+    background-image: url('image/button/13.png');
+}
+
+
+.Valletta {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    bottom: 0px;
+    left: 125px;
+    background-image: url('image/button/14.png');
+}
+
+.Majuro {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    bottom: 0px;
+    left: 130px;
+    background-image: url('image/button/15.png');
+}
+
+.Nouakchott {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    bottom: 0px;
+    left: 135px;
+    background-image: url('image/button/16.png');
+}
+
+.PortLouis {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    bottom: 0px;
+    left: 140px;
+    background-image: url('image/button/17.png');
+}
+
+.MexicoCity {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    bottom: 0px;
+    left: 145px;
+    background-image: url('image/button/18.png');
+}
+
+.Beijing {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 50px;
+    left: 120px;
+    background-image: url('image/button/19.png');
+}
+
+.Pekin {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 50px;
+    left: 125px;
+    background-image: url('image/button/20.png');
+}
+
+.Berlin {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 50px;
+    left: 130px;
+    background-image: url('image/button/21.png');
+}
+
+.Bucharest {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 50px;
+    left: 135px;
+    background-image: url('image/button/22.png');
+}
+
+.Budapest {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 50px;
+    left: 140px;
+    background-image: url('image/button/23.png');
+}
+
+.BuenosAires {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 50px;
+    left: 145px;
+    background-image: url('image/button/24.png');
+}
+
+.Cairo {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 100px;
+    left: 120px;
+    background-image: url('image/button/25.png');
+}
+
+.Canberra {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 100px;
+    left: 125px;
+    background-image: url('image/button/26.png');
+}
+
+.Copenhagen {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 100px;
+    left: 130px;
+    background-image: url('image/button/27.png');
+}
+
+.Dublin {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 100px;
+    left: 135px;
+    background-image: url('image/button/28.png');
+}
+
+.Hanoi {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 100px;
+    left: 140px;
+    background-image: url('image/button/29.png');
+}
+
+.Havana {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 100px;
+    left: 145px;
+    background-image: url('image/button/30.png');
+}
+
+.skins31 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 150px;
+    left: 120px;
+    background-image: url('image/button/31.png');
+}
+
+.skins32 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 150px;
+    left: 125px;
+    background-image: url('image/button/32.png');
+}
+
+.skins33 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 150px;
+    left: 130px;
+    background-image: url('image/button/33.png');
+}
+
+.skins34 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 150px;
+    left: 135px;
+    background-image: url('image/button/34.png');
+}
+
+.skins35 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 150px;
+    left: 140px;
+    background-image: url('image/button/35.png');
+}
+
+.skins36 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 150px;
+    left: 145px;
+    background-image: url('image/button/36.png');
+}
+
+.skins37 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 200px;
+    left: 120px;
+    background-image: url('image/button/37.png');
+}
+
+.skins38 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 200px;
+    left: 125px;
+    background-image: url('image/button/38.png');
+}
+
+.skins39 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 200px;
+    left: 130px;
+    background-image: url('image/button/39.png');
+}
+
+.skins40 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 200px;
+    left: 135px;
+    background-image: url('image/button/40.png');
+}
+
+.skins41 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 200px;
+    left: 140px;
+    background-image: url('image/button/41.png');
+}
+
+.skins42 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 200px;
+    left: 145px;
+    background-image: url('image/button/42.png');
+}
+
+.skins43 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 250px;
+    left: 120px;
+    background-image: url('image/button/43.png');
+}
+
+.skins44 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 250px;
+    left: 125px;
+    background-image: url('image/button/44.png');
+}
+
+.skins45 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 250px;
+    left: 130px;
+    background-image: url('image/button/45.png');
+}
+
+.skins46 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+      top: 250px;
+    left: 135px;
+    background-image: url('image/button/46.png');
+}
+
+.skins47 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 250px;
+    left: 140px;
+    background-image: url('image/button/47.png');
+}
+
+.skins48 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 250px;
+    left: 145px;
+    background-image: url('image/button/48.png');
+}
+
+.skins49 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 300px;
+    left: 120px;
+    background-image: url('image/button/49.png');
+}
+
+.skins50 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 300px;
+    left: 125px;
+    background-image: url('image/button/50.png');
+}
+
+.skins51 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 300px;
+    left: 130px;
+    background-image: url('image/button/51.png');
+}
+
+.skins52 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 300px;
+    left: 135px;
+    background-image: url('image/button/52.png');
+}
+
+.skins53 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 300px;
+    left: 140px;
+    background-image: url('image/button/53.png');
+}
+
+.skins54 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 300px;
+    left: 145px;
+    background-image: url('image/button/54.png');
+}
+
+.skins55 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 350px;
+    left: 120px;
+    background-image: url('image/button/55.png');
+}
+
+.skins56 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 350px;
+    left: 125px;
+    background-image: url('image/button/56.png');
+}
+
+.skins57 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 350px;
+    left: 130px;
+    background-image: url('image/button/57.png');
+}
+
+.skins58 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 350px;
+    left: 135px;
+    background-image: url('image/button/58.png');
+}
+
+.skins59 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 350px;
+    left: 140px;
+    background-image: url('image/button/59.png');
+}
+
+.skins60 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 350px;
+    left: 145px;
+    background-image: url('image/button/60.png');
+}
+
+.skins61 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 400px;
+    left: 120px;
+    background-image: url('image/button/61.png');
+}
+
+.skins62 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 400px;
+    left: 125px;
+    background-image: url('image/button/62.png');
+}
+
+.skins63 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 400px;
+    left: 130px;
+    background-image: url('image/button/63.png');
+}
+
+.skins64 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 400px;
+    left: 135px;
+    background-image: url('image/button/64.png');
+}
+
+.skins65 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 400px;
+    left: 140px;
+    background-image: url('image/button/65.png');
+}
+
+.skins66 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 400px;
+    left: 145px;
+    background-image: url('image/button/66.png');
+}
+
+.skins67 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 450px;
+    left: 120px;
+    background-image: url('image/button/67.png');
+}
+
+.skins68 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 450px;
+    left: 125px;
+    background-image: url('image/button/68.png');
+}
+
+.skins69 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 450px;
+    left: 130px;
+    background-image: url('image/button/69.png');
+}
+
+.skins70 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 450px;
+    left: 135px;
+    background-image: url('image/button/70.png');
+}
+
+.skins71 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 450px;
+    left: 140px;
+    background-image: url('image/button/71.png');
+}
+
+.skins72 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 450px;
+    left: 145px;
+    background-image: url('image/button/72.png');
+}
+
+.skins73 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 500px;
+    left: 120px;
+    background-image: url('image/button/73.png');
+}
+
+.skins74 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 500px;
+    left: 125px;
+    background-image: url('image/button/74.png');
+}
+
+.skins75 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 500px;
+    left: 130px;
+    background-image: url('image/button/75.png');
+}
+
+.skins76 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 500px;
+    left: 135px;
+    background-image: url('image/button/76.png');
+}
+
+.skins77 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 500px;
+    left: 140px;
+    background-image: url('image/button/77.png');
+}
+
+.skins78 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 500px;
+    left: 145px;
+    background-image: url('image/button/78.png');
+}
+
+.skins79 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 550px;
+    left: 120px;
+    background-image: url('image/button/79.png');
+}
+
+.skins80 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 550px;
+    left: 125px;
+    background-image: url('image/button/80.png');
+}
+
+.skins81 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 550px;
+    left: 130px;
+    background-image: url('image/button/81.png');
+}
+
+.skins82 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 550px;
+    left: 135px;
+    background-image: url('image/button/82.png');
+}
+
+.skins83 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 550px;
+    left: 140px;
+    background-image: url('image/button/83.png');
+}
+
+.skins84 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 550px;
+    left: 145px;
+    background-image: url('image/button/84.png');
+}
+
+.skins85 {
+    width: 250px;
+.    height: 400PX;
+    position: relative;
+    top: 600px;
+    left: 120px;
+    background-image: url('image/button/85.png');
+}
+
+.skins86 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 600px;
+    left: 125px;
+    background-image: url('image/button/86.png');
+}
+
+.skins87 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 600px;
+    left: 130px;
+    background-image: url('image/button/87.png');
+}
+
+.skins88 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 600px;
+    left: 135px;
+    background-image: url('image/button/88.png');
+}
+
+.skins89 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 600px;
+    left: 140px;
+    background-image: url('image/button/89.png');
+}
+
+.skins90 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 600px;
+    left: 145px;
+    background-image: url('image/button/90.png');
+}
+
+.skins91 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 650px;
+    left: 120px;
+    background-image: url('image/button/91.png');
+}
+
+.skins92 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 650px;
+    left: 125px;
+    background-image: url('image/button/92.png');
+}
+
+.skins93 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 650px;
+    left: 130px;
+    background-image: url('image/button/93.png');
+}
+
+.skins94 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 650px;
+    left: 135px;
+    background-image: url('image/button/94.png');
+}
+
+.skins95 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 650px;
+    left: 140px;
+    background-image: url('image/button/95.png');
+}
+
+.skins96 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 650px;
+    left: 145px;
+    background-image: url('image/button/96.png');
+}
+
+.skins97 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 700px;
+    left: 120px;
+    background-image: url('image/button/97.png');
+}
+
+.skins98 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 700px;
+    left: 125px;
+    background-image: url('image/button/98.png');
+}
+
+.skins99 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 700px;
+    left: 130px;
+    background-image: url('image/button/99.png');
+}
+
+.skins100 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 700px;
+    left: 135px;
+    background-image: url('image/button/100.png');
+}
+
+.skins101 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 700px;
+    left: 140px;
+    background-image: url('image/2button/101.png');
+}
+
+.skins102 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 700px;
+    left: 145px;
+    background-image: url('image/2button/102.png');
+}
+
+.back {
+    width: 200px;
+    height: 50px;
+    position: Relative;
+    top: 330px;
+    background-image: url('image/back.png');
+}
+
+.last {
+    width: 200px;
+    height: 50px;
+    position: Relative;
+    left: 1650px;
+    top: 280px;
+    background-image: url('image/last.png');
+}
+
+
+.info {
+    width: 1000px;
+    height: 250px;
+    position: Relative;
+    bottom:100px;
+    left: 800px;
+}
+
+.Varshava {
+    position: Relative;
+    top: 800px;
+    background-image: url('image/line.png');
+}
+
+.back2 {
+    width: 200px;
+    height: 50px;
+    position: Relative;
+    top: 730px;
+    background-image: url('image/back.png');
+}
+
+.last2 {
+    width: 200px;
+    height: 50px;
+    position: Relative;
+    left: 1650px;
+    top: 680px;
+    background-image: url('image/last.png');
+}
+
+
+.one {
+    background-color: Transparent;
+    background-image: url('image/buttons/1.png');
+    width: 200px;
+    height: 50px;
+    position: Relative;
+    bottom: 200px;
+}
+
+.two {
+    background-color: Transparent;
+    background-image: url('image/buttons/2.png');
+    width: 200px;
+    height: 50px;
+    position: Relative;
+    bottom: 200px;
+}
+
+.three {
+    background-color: Transparent;
+    background-image: url('image/buttons/3.png');
+    width: 200px;
+    height: 50px;
+    position: Relative;
+    bottom: 200px;
+}
+
+.four {
+    background-color: Transparent;
+    background-image: url('image/buttons/4.png');
+    width: 200px;
+    height: 50px;
+    position: Relative;
+    bottom: 200px;
+}
+
+.five {
+    background-color: Transparent;
+    background-image: url('image/buttons/5.png');
+    width: 200px;
+    height: 50px;
+    position: Relative;
+    bottom: 200px;
+}
+
+.six {
+    background-color: Transparent;
+    background-image: url('image/buttons/6.png');
+    width: 200px;
+    height: 50px;
+    position: Relative;
+    bottom: 200px;
+}
+
+.seven {
+    background-color: Transparent;
+    background-image: url('image/buttons/7.png');
+    width: 200px;
+    height: 50px;
+    position: Relative;
+    bottom: 200px;
+}
+
+.eight {
+    background-color: Transparent;
+    background-image: url('image/buttons/8.png');
+    width: 200px;
+    height: 50px;
+    position: Relative;
+    bottom: 200px;
+}
+
+.nine {
+    background-color: Transparent;
+    background-image: url('image/buttons/9.png');
+    width: 200px;
+    height: 50px;
+    position: Relative;
+    bottom: 200px;
+}
+
+.ten {
+    background-color: Transparent;
+    background-image: url('image/buttons/10.png');
+    width: 200px;
+    height: 50px;
+    position: Relative;
+    bottom: 200px;
+}
+
+.eleven {
+    background-color: Transparent;
+    background-image: url('image/buttons/11.png');
+    width: 200px;
+    height: 50px;
+    position: Relative;
+    bottom: 200px;
+}
+
+.twelve {
+    background-color: Transparent;
+    background-image: url('image/buttons/12.png');
+    width: 200px;
+    height: 50px;
+    position: Relative;
+    bottom: 200px;
+}
+
+.info2 {
+    color: white;
+    font-family: 'Minecraft Rus', sans-serif;
+    font-size: 25px;
+    text-align: left;
+    background-image: linear-gradient(to left, #FF6347, #FFFF00);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    position: relative;
+    bottom:350px; 
+}

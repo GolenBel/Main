@@ -1,0 +1,350 @@
+body {
+    overflow-x: hidden;
+    background-image: url('image/fons.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.Brussels {
+    font-family: 'Impact', sans-serif;
+    font-size: 100px;
+    background-image: linear-gradient(to left, #FF6347, #FFFF00);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    position: relative;
+    top: 90px;
+    letter-spacing: 10px;
+}
+
+.back {
+    width: 200px;
+    height: 50px;
+    position: Relative;
+    top: 200px;
+    background-image: url('image/back.png');
+}
+
+.Monrovia {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 200px;
+    left: 120px;
+    background-image: url('image/button/4.png');
+}
+
+.Valletta {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 200px;
+    left: 125px;
+    background-image: url('image/button/14.png');
+}
+
+.Beijing {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 200px;
+    left: 130px;
+    background-image: url('image/button/19.png');
+}
+
+.Pekin {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 200px;
+    left: 135px;
+    background-image: url('image/button/20.png');
+}
+
+.BuenosAires {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 200px;
+    left: 140px;
+    background-image: url('image/button/24.png');
+}
+
+.Copenhagen {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 200px;
+    left: 145px;
+    background-image: url('image/button/27.png');
+}
+
+.Havana {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 250px;
+    left: 120px;
+    background-image: url('image/button/30.png');
+}
+
+.skins34 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 250px;
+    left: 125px;
+    background-image: url('image/button/34.png');
+}
+
+.skins39 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 250px;
+    left: 130px;
+    background-image: url('image/button/39.png');
+}
+
+.skins43 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 250px;
+    left: 135px;
+    background-image: url('image/button/43.png');
+}
+
+.skins44 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 250px;
+    left: 140px;
+    background-image: url('image/button/44.png');
+}
+
+.skins50 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 250px;
+    left: 145px;
+    background-image: url('image/button/50.png');
+}
+
+.skins53 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 300px;
+    left: 120px;
+    background-image: url('image/button/53.png');
+}
+
+.skins54 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 300px;
+    left: 125px;
+    background-image: url('image/button/54.png');
+}
+
+.skins56 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 300px;
+    left: 130px;
+    background-image: url('image/button/56.png');
+}
+
+.skins59 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 300px;
+    left: 135px;
+    background-image: url('image/button/59.png');
+}
+
+.skins60 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 300px;
+    left: 140px;
+    background-image: url('image/button/60.png');
+}
+
+.skins62 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 300px;
+    left: 145px;
+    background-image: url('image/button/62.png');
+}
+
+.skins63 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 350px;
+    left: 120px;
+    background-image: url('image/button/63.png');
+}
+
+.skins66 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 350px;
+    left: 125px;
+    background-image: url('image/button/66.png');
+}
+
+.skins82 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 350px;
+    left: 130px;
+    background-image: url('image/button/82.png');
+}
+
+.skins83 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 350px;
+    left: 135px;
+    background-image: url('image/button/83.png');
+}
+
+.skins84 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 350px;
+    left: 140px;
+    background-image: url('image/button/84.png');
+}
+
+.skins85 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 350px;
+    left: 145px;
+    background-image: url('image/button/85.png');
+}
+
+.skins86 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 400px;
+    left: 120px;
+    background-image: url('image/button/86.png');
+}
+
+.skins87 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 400px;
+    left: 125px;
+    background-image: url('image/button/87.png');
+}
+
+.skins88 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 400px;
+    left: 130px;
+    background-image: url('image/button/88.png');
+}
+
+.skins90 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 400px;
+    left: 135px;
+    background-image: url('image/button/90.png');
+}
+
+.skins93 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 400px;
+    left: 140px;
+    background-image: url('image/button/93.png');
+}
+
+.skins94 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 400px;
+    left: 145px;
+    background-image: url('image/button/94.png');
+}
+
+.skins96 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 450px;
+    left: 120px;
+    background-image: url('image/button/96.png');
+}
+
+.skins97 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 450px;
+    left: 125px;
+    background-image: url('image/button/97.png');
+}
+
+.skins98 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 450px;
+    left: 130px;
+    background-image: url('image/button/98.png');
+}
+
+.skins99 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 450px;
+    left: 135px;
+    background-image: url('image/button/99.png');
+}
+
+.skins100 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 450px;
+    left: 140px;
+    background-image: url('image/button/100.png');
+}
+
+.Cairo {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 450px;
+    left: 145px;
+    background-image: url('image/2button/127.png');
+}

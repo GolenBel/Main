@@ -1,0 +1,482 @@
+body {
+    overflow-x: hidden;
+    background-image: url('image/fons.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.Brussels {
+    font-family: 'Minecraft Rus', sans-serif;
+    font-size: 100px;
+    text-align: left;
+    background-image: linear-gradient(to left, #FF6347, #FFFF00);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    position: relative;
+    top: 70px;
+}
+
+.UlanBator {
+    position: Relative;
+    top: 150px;
+    background-image: url('image/line.png');
+}
+
+.Riga {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 150px;
+    left: 120px;
+    background-image: url('image/2button/103.png');
+}
+
+.Beirut {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 150px;
+    left: 125px;
+    background-image: url('image/2button/104.png');
+}
+
+.Maseru {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 150px;
+    left: 130px;
+    background-image: url('image/2button/105.png');
+}
+
+.Monrovia {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 150px;
+    left: 135px;
+    background-image: url('image/2button/106.png');
+}
+
+.Tripoli {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 150px;
+    left: 140px;
+    background-image: url('image/2button/107.png');
+}
+
+.Vaduz {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 150px;
+    left: 145px;
+    background-image: url('image/2button/108.png');
+}
+
+.Vilnius {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 200px;
+    left: 120px;
+    background-image: url('image/2button/109.png');
+}
+
+.Luxembourg {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 200px;
+    left: 125px;
+    background-image: url('image/2button/110.png');
+}
+
+.Antananarivo {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 200px;
+    left: 130px;
+    background-image: url('image/2button/111.png');
+}
+
+.Lilongwe {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 200px;
+    left: 135px;
+    background-image: url('image/2button/112.png');
+}
+
+.KualaLumpur {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 200px;
+    left: 140px;
+    background-image: url('image/2button/113.png');
+}
+
+.Male {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 200px;
+    left: 145px;
+    background-image: url('image/2button/114.png');
+}
+
+
+
+.Bamako {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 250px;
+    left: 120px;
+    background-image: url('image/2button/115.png');
+}
+
+
+.Valletta {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 250px;
+    left: 125px;
+    background-image: url('image/2button/116.png');
+}
+
+.Majuro {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 250px;
+    left: 130px;
+    background-image: url('image/2button/117.png');
+}
+
+.Nouakchott {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 250px;
+    left: 135px;
+    background-image: url('image/2button/118.png');
+}
+
+.PortLouis {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 250px;
+    left: 140px;
+    background-image: url('image/2button/119.png');
+}
+
+.MexicoCity {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 250px;
+    left: 145px;
+    background-image: url('image/2button/120.png');
+}
+
+.Beijing {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 300px;
+    left: 120px;
+    background-image: url('image/2button/121.png');
+}
+
+.Pekin {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 300px;
+    left: 125px;
+    background-image: url('image/2button/122.png');
+}
+
+.Berlin {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 300px;
+    left: 130px;
+    background-image: url('image/2button/123.png');
+}
+
+.Bucharest {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 300px;
+    left: 135px;
+    background-image: url('image/2button/124.png');
+}
+
+.Budapest {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 300px;
+    left: 140px;
+    background-image: url('image/2button/125.png');
+}
+
+.BuenosAires {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 300px;
+    left: 145px;
+    background-image: url('image/2button/126.png');
+}
+
+.Cairo {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 350px;
+    left: 120px;
+    background-image: url('image/2button/127.png');
+}
+
+.Canberra {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 350px;
+    left: 125px;
+    background-image: url('image/2button/128.png');
+}
+
+.Copenhagen {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 350px;
+    left: 130px;
+    background-image: url('image/2button/129.png');
+}
+
+.Dublin {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 350px;
+    left: 135px;
+    background-image: url('image/2button/130.png');
+}
+
+.Hanoi {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 350px;
+    left: 140px;
+    background-image: url('image/2button/131.png');
+}
+
+.Havana {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 350px;
+    left: 145px;
+    background-image: url('image/2button/132.png');
+}
+
+.skins31 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 400px;
+    left: 120px;
+    background-image: url('image/2button/133.png');
+}
+
+.skins32 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 400px;
+    left: 125px;
+    background-image: url('image/2button/134.png');
+}
+
+.skins33 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 400px;
+    left: 130px;
+    background-image: url('image/2button/135.png');
+}
+
+.skins34 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 400px;
+    left: 135px;
+    background-image: url('image/2button/136.png');
+}
+
+.skins35 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 400px;
+    left: 140px;
+    background-image: url('image/2button/137.png');
+}
+
+.skins36 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 400px;
+    left: 145px;
+    background-image: url('image/2button/138.png');
+}
+
+.skins37 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 450px;
+    left: 120px;
+    background-image: url('image/2button/139.png');
+}
+
+.skins38 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 450px;
+    left: 125px;
+    background-image: url('image/2button/140.png');
+}
+
+.skins39 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 450px;
+    left: 130px;
+    background-image: url('image/2button/141.png');
+}
+
+.skins40 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 450px;
+    left: 135px;
+    background-image: url('image/2button/142.png');
+}
+
+.skins41 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 450px;
+    left: 140px;
+    background-image: url('image/2button/143.png');
+}
+
+.skins42 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 450px;
+    left: 145px;
+    background-image: url('image/2button/144.png');
+}
+
+.skins43 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 500px;
+    left: 120px;
+    background-image: url('image/2button/145.png');
+}
+
+.skins44 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 500px;
+    left: 125px;
+    background-image: url('image/2button/146.png');
+}
+
+.skins45 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 500px;
+    left: 130px;
+    background-image: url('image/2button/147.png');
+}
+
+.skins46 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 500px;
+    left: 135px;
+    background-image: url('image/2button/148.png');
+}
+
+.skins47 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 500px;
+    left: 140px;
+    background-image: url('image/2button/149.png');
+}
+
+.skins48 {
+    width: 250px;
+    height: 400PX;
+    position: relative;
+    top: 500px;
+    left: 145px;
+    background-image: url('image/2button/150.png');
+}
+
+.back {
+    width: 200px;
+    height: 50px;
+    position: Relative;
+    top: 80px;
+    background-image: url('image/back.png');
+}
+
+.Varshava {
+    position: Relative;
+    top: 500px;
+    background-image: url('image/line.png');
+}
+
+.back2 {
+    width: 200px;
+    height: 50px;
+    position: Relative;
+    top: 430px;
+    background-image: url('image/back.png');
+}
+
